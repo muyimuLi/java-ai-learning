@@ -1,0 +1,52 @@
+{
+  "bikes": [
+    {
+      "id": 1,
+      "brand": "Trek",
+      "description": "A high-performance mountain bike for trail riding, built with a carbon fiber frame.",
+      "country": "America"
+    },
+    {
+      "id": 2,
+      "brand": "Cannondale",
+      "description": "A hand-built hybrid bike for daily commuting, built with a titanium frame.",
+      "country": "Taiwan"
+    },
+    {
+      "id": 3,
+      "brand": "Giant",
+      "description": "A lightweight touring bike for multi-day trips, built with a bamboo frame.",
+      "country": "China"
+    },
+    {
+      "id": 4,
+      "brand": "Specialized",
+      "description": "A commuter-ready cargo bike for carrying heavy loads, built with a steel frame.",
+      "country": "Netherlands"
+    },
+    {
+      "id": 5,
+      "brand": "Scott",
+      "description": "An all-terrain gravel bike for mixed-surface touring, built with a chromoly frame.",
+      "country": "Canada"
+    },
+    {
+      "id": 6,
+      "brand": "Merida",
+      "description": "A tour-tested folding bike for city travel, built with an aluminum frame.",
+      "country": "Italy"
+    },
+    {
+      "id": 7,
+      "brand": "Bianchi",
+      "description": "An entry-level kids bike for young riders, built with a magnesium frame.",
+      "country": "France"
+    },
+    {
+      "id": 8,
+      "brand": "Canyon",
+      "description": "A durable folding bike for city travel, built with a bamboo frame that is fast, light and sturdy.",
+      "country": "Switzerland"
+    }
+  ]
+}
